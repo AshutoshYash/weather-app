@@ -12,6 +12,9 @@ User-friendly Interface: Simple and intuitive design for easy navigation.
 Dynamic Weather Data: Real-time weather information based on the entered city.
 Customization: Easily integrate additional features or modify the app to suit your needs.
 
+## Screenshot
+<img width="305" alt="outlook" src="https://github.com/AshutoshYash/weather-app/assets/104526927/f79b0e78-58ed-4c2c-8382-a0f7e7babebe">
+
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the Weather App.
 
